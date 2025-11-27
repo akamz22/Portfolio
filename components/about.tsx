@@ -26,7 +26,7 @@ export default function About({ id }: { id: string }) {
 
       <div className="grid grid-cols-2 md:grid-cols-3 gap-4 mt-12">
         <div className="p-6 rounded-lg bg-primary/10 border border-primary/20">
-          <div className="text-3xl font-bold text-primary">2+</div>
+          <div className="text-3xl font-bold text-primary">1.5+</div>
           <div className="text-sm text-muted-foreground">Years of Experience</div>
         </div>
         <div className="p-6 rounded-lg bg-primary/10 border border-primary/20">
